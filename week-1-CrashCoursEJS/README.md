@@ -1,3 +1,0 @@
-# CrashCourse JS
-
-Description

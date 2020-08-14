@@ -1,4 +1,4 @@
-# Codesprint Session 5: Deployment and Testing
+# Code Sprint Session 5: Deployment and Testing
 **Instructor:** Sam Sandoval
 
 ## Resources

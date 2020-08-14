@@ -1,4 +1,4 @@
-# Codesprint Session 2: Intro to React
+# Code Sprint Session 2: Intro to React
 **Instructor:** Jacob Nguyen
 
 ## Resources

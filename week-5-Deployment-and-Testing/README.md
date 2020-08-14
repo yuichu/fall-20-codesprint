@@ -1,4 +1,4 @@
-# Code Spring Session5: Deployment and Testing
+# Codesprint Session5: Deployment and Testing
 **Instructor:** Sam Sandoval
 
 ## Resources

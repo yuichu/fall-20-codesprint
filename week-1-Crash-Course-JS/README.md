@@ -1,4 +1,4 @@
-# Codesprint Session 1: Crash Course JS
+# Code Sprint Session 1: Crash Course JS
 **Instructor:** 
 
 ## Resources

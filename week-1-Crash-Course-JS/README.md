@@ -98,7 +98,11 @@ let completion = new Promise(function(resolve,reject){ // how to set a promise u
 ```
 </details>
 
-**Other Useful Resources** (PUT SOME DOWN)
+**Other Useful Resources** 
+- [Mozilla Developers JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [W3Schools ES6](https://www.w3schools.com/js/js_es6.asp)
+- [Tutorials Point ES6](https://www.tutorialspoint.com/es6/es6_promises.htm)
 - [Array Reduce Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
-- [ES6 Promises](https://www.tutorialspoint.com/es6/es6_promises.htm)
+- [ES6 Promises](https://www.tutorialspoint.com/es6/es6_promises.htm) 
+
 

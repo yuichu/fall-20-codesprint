@@ -1,5 +1,5 @@
 # Code Sprint Session 1: Crash Course JS
-**Instructor:** 
+**Instructor:** Wesley Chou
 
 ## Resources
 - [Session 1: Crash Course JS](https://tinyurl.com/codesprint-s1)

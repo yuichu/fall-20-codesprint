@@ -1,5 +1,5 @@
 # Code Sprint Session 4: Views and APIs
-**Instructor:** 
+**Instructor:** Wesley Chou
 
 ## Resources
 - [Session 4: Views and APIs](https://tinyurl.com/codesprint-s4)

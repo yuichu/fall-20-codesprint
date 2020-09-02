@@ -12,7 +12,7 @@ The five hacking sessions will take place from Week 6 - Week 10. During this tim
 
 In this repository, you'll find a guidemap to all the topics we introduce this semster, and links to helpful resources.
 
-We hope you have fun this semester, and encourage you to reach out to any of us if you have any questions or comments or send a message in the #codesprint channel on the ACM Discord Server. 
+We hope you have fun this semester, and encourage you to reach out to any of us if you have any questions or comments., send a message in the #codesprint channel on the ACM Discord Server. 
 ### Course Curriculumn
 Will be available soon!
 <br>

@@ -8,4 +8,6 @@
 - [Discord](https://tinyurl.com/acm-csuf-discord)
 
 **Other Useful Resources**
-- Put some down
+- [Views](https://reactnative.dev/docs/view)
+- [Touches](https://reactnative.dev/docs/handling-touches) 
+- [TextInput](https://reactnative.dev/docs/textinput)

@@ -104,5 +104,6 @@ let completion = new Promise(function(resolve,reject){ // how to set a promise u
 - [Tutorials Point ES6](https://www.tutorialspoint.com/es6/es6_promises.htm)
 - [Array Reduce Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 - [ES6 Promises](https://www.tutorialspoint.com/es6/es6_promises.htm) 
+- [Event Handlers](https://www.youtube.com/watch?v=7UstS0hsHgI&ab_channel=Avelx) 
 
 

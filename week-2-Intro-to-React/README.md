@@ -9,6 +9,7 @@
 
 **Other Useful Resources**
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Intro to HTML](https://www.w3schools.com/html/html_intro.asp)
 - [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 - [React.js Tutorial](https://reactjs.org/tutorial/tutorial.html)
-- [Intro to HTML](https://www.w3schools.com/html/html_intro.asp)
+- [React in 100 seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)

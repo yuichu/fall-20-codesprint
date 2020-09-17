@@ -4,7 +4,7 @@
 ## Resources
 - [Session 1: Crash Course JS](https://tinyurl.com/codesprint-s1)
 
-**Questions** Feel free to post any in the #codesprint channel on the ACM Discord Serveer
+**Questions** Feel free to post any in the #codesprint channel on the ACM Discord Server
 - [Discord](https://tinyurl.com/acm-csuf-discord)
 
 ## Practice Problems

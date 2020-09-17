@@ -16,8 +16,9 @@ We hope you have fun this semester, and encourage you to reach out to any of us 
 ### Course Curriculumn
 Will be available soon!
 <br>
-<!--
+
 - [Session 1: Crash Course JS](https://tinyurl.com/codesprint-s1)
+<!--
 - [Session 2: Intro to React](https://tinyurl.com/codesprint-s2)
 - [Session 3: Dive Into React Native](https://tinyurl.com/codesprint-s3)
 - [Session 4: Views and APIs](https://tinyurl.com/codesprint-s4)

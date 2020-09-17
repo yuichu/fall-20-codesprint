@@ -14,7 +14,6 @@ In this repository, you'll find a guidemap to all the topics we introduce this s
 
 We hope you have fun this semester, and encourage you to reach out to any of us if you have any questions or comments., send a message in the #codesprint channel on the ACM Discord Server. 
 ### Course Curriculumn
-Will be available soon!
 <br>
 
 - [Session 1: Crash Course JS](https://tinyurl.com/codesprint-s1)

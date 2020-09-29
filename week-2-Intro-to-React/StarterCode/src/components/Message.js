@@ -3,7 +3,7 @@ import './Message.css'
 
 const Message = (props) => {
     //custom profile pic based on props.author
-    let image = "https://api.adorable.io/avatars/70/" + props.author + ".png"
+    let image = "https://api.adorable.io/avatars/60/" + props.author + ".png"
     
     // {props.author} - name
     // {props.timestamp} - date
@@ -13,7 +13,7 @@ const Message = (props) => {
         <div className="message">
 
             <div className="message-item">
-                <img className="message-img" src={image} alt="profile picture"/>
+                <img className="message-img" src={image} alt="profile pic"/>
             </div>
 
             <div className="message-item">

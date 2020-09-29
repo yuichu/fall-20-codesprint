@@ -93,8 +93,8 @@ componentWillUnmount = () => {
   }
 
   renderMessages = () => {
-    if (this.state.messages.length == 0){
-      return <div className="message-container">There's nothing here. Message away!</div>
+    if (this.state.messages.length === 0){
+      return <div className="message-container">There's nothing to remember? No way! Leave a note</div>
     }
 
     // go through each msg & create instance of msg
@@ -124,10 +124,10 @@ componentWillUnmount = () => {
     <div className="app-container">
 
       <header className="header-text">
-        ChitChat
+        Post-e-Note
       </header>
 
-      <p>Say What?</p>
+      <p>Save a brain cell, leave a note.</p>
 
       <div className="message-box">
         <input 
@@ -160,5 +160,3 @@ componentWillUnmount = () => {
 }
 
 export default App;
-
-// https://youtu.be/VSUpMcfBmxs?t=3734 left off at firebase tutorial

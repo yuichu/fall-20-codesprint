@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Message from './components/Message';
+import firebase from './lib/firebase';
 
 //Function for the time
 const getTimeString = timestamp => {
@@ -41,7 +42,7 @@ class App extends React.Component {
     this.setState({message: e.target.value})
   }
   
-  /* Uncomment for Database functionality
+  // begin Database functionality
   componentDidMount = () => {
     this.db = firebase.firestore();
     this.unsubscribe = this.db.collection("messages")
@@ -64,8 +65,7 @@ class App extends React.Component {
 
 componentWillUnmount = () => {
   this.unsubscribe();
-}
-*/
+}//end Database functionality
  
   // create and populate message
   createMessage = () =>  {
@@ -82,14 +82,14 @@ componentWillUnmount = () => {
     messages: newMessages
   })
     
-    // Uncomment later for database functionality
-    // this.db.collection("messages").add(newMessage)
-    // .then(function(docRef) {
-    //     console.log("Document written with ID: ", docRef.id);
-    // })
-    // .catch(function(error) {
-    //     console.error("Error adding document: ", error);
-    // });
+    // begin Database functionality
+     this.db.collection("messages").add(newMessage)
+     .then(function(docRef) {
+         console.log("Document written with ID: ", docRef.id);
+     })
+     .catch(function(error) {
+         console.error("Error adding document: ", error);
+    }); // end Database functionality
   }
 
   renderMessages = () => {
